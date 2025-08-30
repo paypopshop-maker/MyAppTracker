@@ -1,0 +1,5 @@
+
+{
+  "name": "Personal Finance Manager (Farsi)",
+  "description": "A mobile-first personal finance management app that parses Persian bank SMS messages to automatically log transactions. Users can then categorize and add notes to each transaction."
+}
